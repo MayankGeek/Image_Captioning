@@ -46,5 +46,5 @@ Go to settings.py file under Img_Upload folder:
 
 5. You will get a 16 digit code in a yellow box copy that code and replace 'enter your google app password' on line 153 with it.
 
-# Project sample images
+
 
